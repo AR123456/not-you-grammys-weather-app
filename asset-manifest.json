@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/not-your-grammys-weather-app/static/js/main.26389589.chunk.js",
-    "main.js.map": "/not-your-grammys-weather-app/static/js/main.26389589.chunk.js.map",
+    "main.js": "/not-your-grammys-weather-app/static/js/main.b3168093.chunk.js",
+    "main.js.map": "/not-your-grammys-weather-app/static/js/main.b3168093.chunk.js.map",
     "runtime~main.js": "/not-your-grammys-weather-app/static/js/runtime~main.72381c6d.js",
     "runtime~main.js.map": "/not-your-grammys-weather-app/static/js/runtime~main.72381c6d.js.map",
-    "static/css/2.266e55a5.chunk.css": "/not-your-grammys-weather-app/static/css/2.266e55a5.chunk.css",
-    "static/js/2.1cd79976.chunk.js": "/not-your-grammys-weather-app/static/js/2.1cd79976.chunk.js",
-    "static/js/2.1cd79976.chunk.js.map": "/not-your-grammys-weather-app/static/js/2.1cd79976.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/not-your-grammys-weather-app/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.00d01491.chunk.js": "/not-your-grammys-weather-app/static/js/2.00d01491.chunk.js",
+    "static/js/2.00d01491.chunk.js.map": "/not-your-grammys-weather-app/static/js/2.00d01491.chunk.js.map",
     "index.html": "/not-your-grammys-weather-app/index.html",
-    "precache-manifest.2815cc5f3828c2af1691aaf357da04ff.js": "/not-your-grammys-weather-app/precache-manifest.2815cc5f3828c2af1691aaf357da04ff.js",
+    "precache-manifest.a5e3c52b18b3af8d3885ed38bf9f7a98.js": "/not-your-grammys-weather-app/precache-manifest.a5e3c52b18b3af8d3885ed38bf9f7a98.js",
     "service-worker.js": "/not-your-grammys-weather-app/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/not-your-grammys-weather-app/static/css/2.266e55a5.chunk.css.map"
+    "static/css/2.17e5ed98.chunk.css.map": "/not-your-grammys-weather-app/static/css/2.17e5ed98.chunk.css.map"
   }
 }

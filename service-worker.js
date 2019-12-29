@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/not-your-grammys-weather-app/precache-manifest.2815cc5f3828c2af1691aaf357da04ff.js"
+  "/not-your-grammys-weather-app/precache-manifest.a5e3c52b18b3af8d3885ed38bf9f7a98.js"
 );
 
 self.addEventListener('message', (event) => {
